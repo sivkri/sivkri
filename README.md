@@ -1,5 +1,5 @@
 - 👋 Hello all, I’m siva
-- 👀 I’m interested in Data analysis
+- 👀 I’m interested in Machine learning
 - 🌱 I’m currently learning ATAC-seq...
 - 💞️ I’m looking to collaborate on similar fields...
 - 📫 Email/instagram/facebook @indiangene
