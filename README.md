@@ -1,5 +1,5 @@
 - 👋 Hello all, I’m siva
-- 👀 I’m interested in Machine learning
+- 👀 I’m interested in Machine learning and Artifical Intelligence
 - 🌱
 - 💞️ 
 - 📫 Email/instagram/facebook @indiangene
