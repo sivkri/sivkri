@@ -1,6 +1,6 @@
 - 👋 Hello all, I’m siva
 - 👀 I’m interested in Machine learning and Artifical Intelligence
-- 🌱
+- 🌱 Analyse Structured, Semi-structured and Unstructured Data
 - 💞️ 
 - 📫 Email/instagram/facebook @indiangene
 
