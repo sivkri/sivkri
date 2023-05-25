@@ -1,8 +1,8 @@
 - 👋 Hello all, I’m siva
 - 👀 I’m interested in Data Science and Machine learning
-- 🌱 I wish to Analyse Structured Data and Stastical modelling 
+- 🌱 I wish to Analyse Structured Data and Statistical modelling 
 - 💞️ Wish to collaborate of similar interests
-- 📫 Email/instagram/facebook @indiangene
+- 📫 Email/facebook @indiangene
 
 <!---
 sivkri/sivkri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
