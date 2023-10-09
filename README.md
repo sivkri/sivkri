@@ -1,5 +1,5 @@
 - 👋 Hello all, I’m siva
-- 👀 I’m interested in Bioinformatics, Data Science and Machine learning
+- 👀 I’m a Bioinformatician and i interested in Data Science
 - 🌱 I wish to Analyse Structured Data and Statistical modelling 
 - 💞️ Wish to collaborate of similar interests
 - 📫 Email/facebook @indiangene
