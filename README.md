@@ -1,6 +1,6 @@
 - 👋 Hello all, I’m siva
-- 👀 I’m a Bioinformatician and i interested in Deep learning
-- 🌱 I wish to Analyse structured and unstructured Data along with statistical modelling 
+- 👀 I’m a Bioinformatician specialised in NGS and Protein modelling and i interested in Deep learning
+- 🌱 I wish to analyse structured and unstructured Data along with statistical modelling 
 - 💞️ Wish to collaborate of similar interests
 - 📫 Email/facebook @indiangene
 
