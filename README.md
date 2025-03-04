@@ -1,5 +1,5 @@
 - 👋 Hello all, I’m siva
-- 👀 I’m a Bioinformatician specialised in Machine learning and i am interested in Deep learning
+- 👀 I’m specialised in Machine learning and i am interested in GenAI
 - 🌱 I wish to analyse structured and unstructured Data along with statistical modelling 
 - 💞️ Wish to collaborate of similar interests
 - 📫 Email/facebook @indiangene
